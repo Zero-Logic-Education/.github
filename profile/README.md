@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,dart,kotlin,java" />
+<img src="https://skillicons.dev/icons?i=js,ts,dart,kotlin,swift,java" />
 <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,react,nextjs,flutter" />
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring" />
 <img src="https://skillicons.dev/icons?i=docker,postgres,redis,rabbitmq,kafka" />
