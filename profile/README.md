@@ -34,37 +34,44 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,dart,kotlin,swift,java" />
-<img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,react,nextjs,flutter" />
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring" />
-<img src="https://skillicons.dev/icons?i=docker,postgres,redis,rabbitmq,kafka" />
+<img src="https://skillicons.dev/icons?i=ts,java" />
+<img src="https://skillicons.dev/icons?i=figma,tailwind,nextjs,flutter" />
+<img src="https://skillicons.dev/icons?i=nestjs,spring" />
+<img src="https://skillicons.dev/icons?i=docker,postgres,firebase,redis,rabbitmq,kafka" />
 
 
 </div>
 
 ---
-<div align="justify">
-  
-## Наши принципы
-*   **Industry Standards:** Пишем код так, будто он завтра идет в продакшн (тесты, CI/CD, документация)
-*   **Осознанность:** Не копируем решения, а глубоко разбираемся в архитектурных паттернах и принципах проектирования
-*   **Публичность:** Делимся прогрессом и наработками с сообществом и потенциальными работодателями
 
-</div>
+> [!IMPORTANT]
+> <details>
+> <summary><b>Наши принципы</b></summary>
+>
+> <p align="justify">
+> <br>
+> • <b>Industry Standards:</b> Пишем код так, будто он завтра идет в продакшн (тесты, CI/CD, документация)<br>
+> • <b>Осознанность:</b> Не копируем решения, а глубоко разбираемся в архитектурных паттернах и принципах проектирования<br>
+> • <b>Публичность:</b> Делимся прогрессом и наработками с сообществом и потенциальными работодателями<br>
+> </p>
+> </details>
 
 ---
 
-<div align="justify">
-  
-## Наш фокус
-В данный момент мы активно работаем над развитием следующих компетенций:
-
-*   **Разработка сложных систем:** Основной проект сейчас — **StackScout**. Это платформа на **Java 21 / Spring Boot 3.5.10**, где мы реализуем сложную бизнес-логику анализа Open Source зависимостей
-*   **Архитектурное проектирование:** Практическое применение паттернов **DDD (Domain-Driven Design)** и микросервисного взаимодействия
-*   **Event-Driven Architecture:** Погружение в мир асинхронных сообщений через **Apache Kafka** и **RabbitMQ** для построения отказоустойчивых систем
-*   **Cloud & DevOps:** Изучение облачной инфраструктуры **AWS** и практик контейнеризации/оркестрации приложений
-
-</div>
+> [!IMPORTANT]
+> <details>
+> <summary><b>Наш фокус</b></summary>
+>
+> <p align="justify">
+> <br>
+> В данный момент мы сосредоточены на глубоком изучении и практическом применении следующих инженерных направлений:<br>
+> <br>
+> • <b>Масштабируемая Backend-разработка:</b> Проектирование высоконагруженных систем на стеке Java/Spring Boot с акцентом на производительность, безопасность и чистоту кода<br>
+> • <b>Современная системная архитектура:</b> Реализация сложных бизнес-требований через паттерны DDD (Domain-Driven Design), Clean Architecture и микросервисное взаимодействие<br>
+> • <b>Распределенные вычисления:</b> Построение отказоустойчивых систем с использованием асинхронного обмена сообщениями через Apache Kafka и RabbitMQ<br>
+> • <b>Инфраструктурная грамотность:</b> Внедрение DevOps-практик, контейнеризация приложений (Docker, K8s) и развертывание в облачных окружениях для обеспечения полного жизненного цикла ПО<br>
+> </p>
+> </details>
 
 ---
 
