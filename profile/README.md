@@ -39,8 +39,6 @@
 <img src="https://skillicons.dev/icons?i=postgres,firebase" />
 <img src="https://skillicons.dev/icons?i=redis,rabbitmq,kafka" />
 <img src="https://skillicons.dev/icons?i=git,docker,postman" />
-<img src="https://skillicons.dev/icons?i=figma" />
-
 
 </div>
 
